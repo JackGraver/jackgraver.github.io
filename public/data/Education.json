@@ -1,0 +1,61 @@
+[
+    {
+        "name": "University of Calgary (UofC)",
+        "certificiation": "BSc Degree in Computer Science",
+        "location": "Calgary, AB, Canada",
+        "startYear": 2021,
+        "endYear": 2025,
+        "description": "da uofc bwo",
+        "achievements": [
+            "a1",
+            "a2"
+        ],
+        "relevantCourses": [
+            "Java",
+            "Python",
+            "C & C++",
+            "Data Structures & Algorithms",
+            "Operating Systems",
+            "Computer Security",
+            "Calculus I & II",
+            "Linear Algebra"
+        ],
+        "projects": [
+            "AI Model Implemention", "Self-Checkout System Simulation", "Online Store Replica"
+        ]
+    },
+    {
+        "name": "Southern Alberta Institute of Technology (SAIT)",
+        "certificiation": "Polytechnic Diploma in Information Technology",
+        "location": "Calgary, AB, Canada",
+        "graduationYear": "2021",
+        "startYear": 2019,
+        "endYear": 2021,
+        "description": "da sait bwa",
+        "achievements": [
+            "a1",
+            "a2"
+        ],
+        "relevantCourses": [
+            "c1",
+            "c2"
+        ],
+        "projects": [
+            "SAIT Capstone Project"
+        ]
+    },
+    {
+        "name": "William Aberhart High School (ABE)",
+        "certificiation": "French Immersion High School Diploma",
+        "location": "Calgary, AB, Canada",
+        "graduationYear": "2019",
+        "startYear": 2016,
+        "endYear": 2019,
+        "description": "abe babe",
+        "achievements": [
+            "DELF B2 Certification"
+        ],
+        "relevantCourses": [],
+        "projects": []
+    }
+]

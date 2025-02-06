@@ -1,0 +1,19 @@
+{
+    "technologies": {
+        "frameworks": [
+            "React", "Tailwind", "Sqlite"
+        ],
+        "languages": [
+            "Java", "C++", "C", "Python", "JavaScript", "TypeScript", "SQL", "HTML", "CSS"
+        ],
+        "concepts": [
+            "OOP", "REST", "Diagramming"
+        ],
+        "other": [
+            "Git", "Linux", "VSCode", "Intellij"
+        ]
+    },
+    "languages": [
+        "English", "French", "Russian"
+    ]
+}

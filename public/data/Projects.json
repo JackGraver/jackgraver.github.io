@@ -1,0 +1,41 @@
+{
+    "School": [
+        {
+            "name": "AI Model Design & Implemention",
+            "description": "This was the term project for an AI class (CPSC 433)",
+            "github": "https://github.com/JackGraver/CPSC433-Project-Floette",
+            "technology": ["faJava"],
+            "images": []
+        },
+        {
+            "name": "Self-Checkout System Simulation",
+            "description": "This was a group project for SENG 300",
+            "github": "",
+            "technology": ["faJava"],
+            "images": ["SENG300/image1.png", "SENG300/image2.png", "SENG300/image3.png", "SENG300/image4.png", "SENG300/image5.png", "SENG300/image6.png", "SENG300/image7.png", "SENG300/image8.png", "SENG300/image9.png"]
+        },
+        {
+            "name": "Online Store Replica",
+            "description": "This was a group project for SENG 300",
+            "github": "",
+            "technology": ["faReact", "faDatabase"],
+            "images": ["CPSC471/image1.png", "CPSC471/image2.png", "CPSC471/image3.png", "CPSC471/image4.png", "CPSC471/image5.png", "CPSC471/image6.png", "CPSC471/image7.png", "CPSC471/image8.png", "CPSC471/image9.png", "CPSC471/image10.png"]
+        },
+        {
+            "name": "SAIT Capstone Project",
+            "description": "This was the capstone project for my diploma at SAIT",
+            "github": "",
+            "technology": ["faReact"],
+            "images": []
+        }
+    ],
+    "Personal": [
+        {
+            "name": "Personal Website",
+            "description": "This is my personal website",
+            "github": "",
+            "technology": ["faReact"],
+            "images": []
+        }
+    ]
+}
