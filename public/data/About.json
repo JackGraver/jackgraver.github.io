@@ -14,6 +14,21 @@
         ]
     },
     "languages": [
-        "English", "French", "Russian"
+        {
+            "language": "English",
+            "proficiency": 5
+        },
+        {
+            "language": "French",
+            "proficiency": 4
+        },
+        {
+            "language": "Russian",
+            "proficiency": 3
+        },
+        {
+            "language": "Spanish",
+            "proficiency": 2
+        }
     ]
 }

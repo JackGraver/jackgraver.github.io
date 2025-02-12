@@ -10,7 +10,6 @@ type LanguagesProps = {
     list: Language[],
 }
 
-
 export default function Languages({ list }: LanguagesProps) {
     return (
         <div>
